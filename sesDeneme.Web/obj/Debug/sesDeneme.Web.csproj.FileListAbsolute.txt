@@ -1,0 +1,152 @@
+C:\Users\turk_\OneDrive\Belgeler\Visual Studio 2015\Projects\SesDeneme\sesDeneme.Web\bin\ApplicationInsights.config
+C:\Users\turk_\OneDrive\Belgeler\Visual Studio 2015\Projects\SesDeneme\sesDeneme.Web\bin\roslyn\csc.exe
+C:\Users\turk_\OneDrive\Belgeler\Visual Studio 2015\Projects\SesDeneme\sesDeneme.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\turk_\OneDrive\Belgeler\Visual Studio 2015\Projects\SesDeneme\sesDeneme.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\turk_\OneDrive\Belgeler\Visual Studio 2015\Projects\SesDeneme\sesDeneme.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\turk_\OneDrive\Belgeler\Visual Studio 2015\Projects\SesDeneme\sesDeneme.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\turk_\OneDrive\Belgeler\Visual Studio 2015\Projects\SesDeneme\sesDeneme.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\turk_\OneDrive\Belgeler\Visual Studio 2015\Projects\SesDeneme\sesDeneme.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\turk_\OneDrive\Belgeler\Visual Studio 2015\Projects\SesDeneme\sesDeneme.Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\turk_\OneDrive\Belgeler\Visual Studio 2015\Projects\SesDeneme\sesDeneme.Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\turk_\OneDrive\Belgeler\Visual Studio 2015\Projects\SesDeneme\sesDeneme.Web\bin\roslyn\vbc.exe
+C:\Users\turk_\OneDrive\Belgeler\Visual Studio 2015\Projects\SesDeneme\sesDeneme.Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\turk_\OneDrive\Belgeler\Visual Studio 2015\Projects\SesDeneme\sesDeneme.Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\turk_\OneDrive\Belgeler\Visual Studio 2015\Projects\SesDeneme\sesDeneme.Web\bin\sesDeneme.Web.dll.config
+C:\Users\turk_\OneDrive\Belgeler\Visual Studio 2015\Projects\SesDeneme\sesDeneme.Web\bin\sesDeneme.Web.dll
+C:\Users\turk_\OneDrive\Belgeler\Visual Studio 2015\Projects\SesDeneme\sesDeneme.Web\bin\sesDeneme.Web.pdb
+C:\Users\turk_\OneDrive\Belgeler\Visual Studio 2015\Projects\SesDeneme\sesDeneme.Web\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\turk_\OneDrive\Belgeler\Visual Studio 2015\Projects\SesDeneme\sesDeneme.Web\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\turk_\OneDrive\Belgeler\Visual Studio 2015\Projects\SesDeneme\sesDeneme.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\turk_\OneDrive\Belgeler\Visual Studio 2015\Projects\SesDeneme\sesDeneme.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\turk_\OneDrive\Belgeler\Visual Studio 2015\Projects\SesDeneme\sesDeneme.Web\bin\Microsoft.AI.Web.dll
+C:\Users\turk_\OneDrive\Belgeler\Visual Studio 2015\Projects\SesDeneme\sesDeneme.Web\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\turk_\OneDrive\Belgeler\Visual Studio 2015\Projects\SesDeneme\sesDeneme.Web\bin\Microsoft.ApplicationInsights.dll
+C:\Users\turk_\OneDrive\Belgeler\Visual Studio 2015\Projects\SesDeneme\sesDeneme.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\turk_\OneDrive\Belgeler\Visual Studio 2015\Projects\SesDeneme\sesDeneme.Web\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\turk_\OneDrive\Belgeler\Visual Studio 2015\Projects\SesDeneme\sesDeneme.Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\turk_\OneDrive\Belgeler\Visual Studio 2015\Projects\SesDeneme\sesDeneme.Web\bin\Microsoft.AI.Web.xml
+C:\Users\turk_\OneDrive\Belgeler\Visual Studio 2015\Projects\SesDeneme\sesDeneme.Web\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\turk_\OneDrive\Belgeler\Visual Studio 2015\Projects\SesDeneme\sesDeneme.Web\bin\Microsoft.ApplicationInsights.xml
+C:\Users\turk_\OneDrive\Belgeler\Visual Studio 2015\Projects\SesDeneme\sesDeneme.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\turk_\OneDrive\Belgeler\Visual Studio 2015\Projects\SesDeneme\sesDeneme.Web\obj\Debug\sesDeneme.Web.csprojResolveAssemblyReference.cache
+C:\Users\turk_\OneDrive\Belgeler\Visual Studio 2015\Projects\SesDeneme\sesDeneme.Web\obj\Debug\sesDeneme.Web.dll
+C:\Users\turk_\OneDrive\Belgeler\Visual Studio 2015\Projects\SesDeneme\sesDeneme.Web\obj\Debug\sesDeneme.Web.pdb
+C:\Users\turk_\OneDrive\Belgeler\Visual Studio 2015\Projects\SesDeneme\sesDeneme.Web\bin\EntityFramework.dll
+C:\Users\turk_\OneDrive\Belgeler\Visual Studio 2015\Projects\SesDeneme\sesDeneme.Web\bin\EntityFramework.SqlServer.dll
+C:\Users\turk_\OneDrive\Belgeler\Visual Studio 2015\Projects\SesDeneme\sesDeneme.Web\bin\EntityFramework.xml
+C:\Users\turk_\OneDrive\Belgeler\Visual Studio 2015\Projects\SesDeneme\sesDeneme.Web\bin\EntityFramework.SqlServer.xml
+C:\Users\Gül\Desktop\goktug\SesDeneme\sesDeneme.Web\bin\ApplicationInsights.config
+C:\Users\Gül\Desktop\goktug\SesDeneme\sesDeneme.Web\bin\roslyn\csc.exe
+C:\Users\Gül\Desktop\goktug\SesDeneme\sesDeneme.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Gül\Desktop\goktug\SesDeneme\sesDeneme.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Gül\Desktop\goktug\SesDeneme\sesDeneme.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Gül\Desktop\goktug\SesDeneme\sesDeneme.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Gül\Desktop\goktug\SesDeneme\sesDeneme.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Gül\Desktop\goktug\SesDeneme\sesDeneme.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Gül\Desktop\goktug\SesDeneme\sesDeneme.Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Gül\Desktop\goktug\SesDeneme\sesDeneme.Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Gül\Desktop\goktug\SesDeneme\sesDeneme.Web\bin\roslyn\vbc.exe
+C:\Users\Gül\Desktop\goktug\SesDeneme\sesDeneme.Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\Gül\Desktop\goktug\SesDeneme\sesDeneme.Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Gül\Desktop\goktug\SesDeneme\sesDeneme.Web\bin\sesDeneme.Web.dll.config
+C:\Users\Gül\Desktop\goktug\SesDeneme\sesDeneme.Web\bin\sesDeneme.Web.dll
+C:\Users\Gül\Desktop\goktug\SesDeneme\sesDeneme.Web\bin\sesDeneme.Web.pdb
+C:\Users\Gül\Desktop\goktug\SesDeneme\sesDeneme.Web\bin\EntityFramework.dll
+C:\Users\Gül\Desktop\goktug\SesDeneme\sesDeneme.Web\bin\EntityFramework.SqlServer.dll
+C:\Users\Gül\Desktop\goktug\SesDeneme\sesDeneme.Web\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Gül\Desktop\goktug\SesDeneme\sesDeneme.Web\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Gül\Desktop\goktug\SesDeneme\sesDeneme.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Gül\Desktop\goktug\SesDeneme\sesDeneme.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Gül\Desktop\goktug\SesDeneme\sesDeneme.Web\bin\Microsoft.AI.Web.dll
+C:\Users\Gül\Desktop\goktug\SesDeneme\sesDeneme.Web\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Gül\Desktop\goktug\SesDeneme\sesDeneme.Web\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Gül\Desktop\goktug\SesDeneme\sesDeneme.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Gül\Desktop\goktug\SesDeneme\sesDeneme.Web\bin\EntityFramework.xml
+C:\Users\Gül\Desktop\goktug\SesDeneme\sesDeneme.Web\bin\EntityFramework.SqlServer.xml
+C:\Users\Gül\Desktop\goktug\SesDeneme\sesDeneme.Web\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Gül\Desktop\goktug\SesDeneme\sesDeneme.Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Gül\Desktop\goktug\SesDeneme\sesDeneme.Web\bin\Microsoft.AI.Web.xml
+C:\Users\Gül\Desktop\goktug\SesDeneme\sesDeneme.Web\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Gül\Desktop\goktug\SesDeneme\sesDeneme.Web\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Gül\Desktop\goktug\SesDeneme\sesDeneme.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Gül\Desktop\goktug\SesDeneme\sesDeneme.Web\obj\Debug\sesDeneme.Web.csprojResolveAssemblyReference.cache
+C:\Users\Gül\Desktop\goktug\SesDeneme\sesDeneme.Web\obj\Debug\sesDeneme.Web.dll
+C:\Users\Gül\Desktop\goktug\SesDeneme\sesDeneme.Web\obj\Debug\sesDeneme.Web.pdb
+C:\Users\Atmaca\Downloads\SesDeneme51\SesDeneme\sesDeneme.Web\bin\ApplicationInsights.config
+C:\Users\Atmaca\Downloads\SesDeneme51\SesDeneme\sesDeneme.Web\bin\roslyn\csc.exe
+C:\Users\Atmaca\Downloads\SesDeneme51\SesDeneme\sesDeneme.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Atmaca\Downloads\SesDeneme51\SesDeneme\sesDeneme.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Atmaca\Downloads\SesDeneme51\SesDeneme\sesDeneme.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Atmaca\Downloads\SesDeneme51\SesDeneme\sesDeneme.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Atmaca\Downloads\SesDeneme51\SesDeneme\sesDeneme.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Atmaca\Downloads\SesDeneme51\SesDeneme\sesDeneme.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Atmaca\Downloads\SesDeneme51\SesDeneme\sesDeneme.Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Atmaca\Downloads\SesDeneme51\SesDeneme\sesDeneme.Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Atmaca\Downloads\SesDeneme51\SesDeneme\sesDeneme.Web\bin\roslyn\vbc.exe
+C:\Users\Atmaca\Downloads\SesDeneme51\SesDeneme\sesDeneme.Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\Atmaca\Downloads\SesDeneme51\SesDeneme\sesDeneme.Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Atmaca\Downloads\SesDeneme51\SesDeneme\sesDeneme.Web\bin\sesDeneme.Web.dll.config
+C:\Users\Atmaca\Downloads\SesDeneme51\SesDeneme\sesDeneme.Web\bin\sesDeneme.Web.dll
+C:\Users\Atmaca\Downloads\SesDeneme51\SesDeneme\sesDeneme.Web\bin\sesDeneme.Web.pdb
+C:\Users\Atmaca\Downloads\SesDeneme51\SesDeneme\sesDeneme.Web\bin\EntityFramework.dll
+C:\Users\Atmaca\Downloads\SesDeneme51\SesDeneme\sesDeneme.Web\bin\EntityFramework.SqlServer.dll
+C:\Users\Atmaca\Downloads\SesDeneme51\SesDeneme\sesDeneme.Web\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Atmaca\Downloads\SesDeneme51\SesDeneme\sesDeneme.Web\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Atmaca\Downloads\SesDeneme51\SesDeneme\sesDeneme.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Atmaca\Downloads\SesDeneme51\SesDeneme\sesDeneme.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Atmaca\Downloads\SesDeneme51\SesDeneme\sesDeneme.Web\bin\Microsoft.AI.Web.dll
+C:\Users\Atmaca\Downloads\SesDeneme51\SesDeneme\sesDeneme.Web\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Atmaca\Downloads\SesDeneme51\SesDeneme\sesDeneme.Web\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Atmaca\Downloads\SesDeneme51\SesDeneme\sesDeneme.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Atmaca\Downloads\SesDeneme51\SesDeneme\sesDeneme.Web\bin\EntityFramework.xml
+C:\Users\Atmaca\Downloads\SesDeneme51\SesDeneme\sesDeneme.Web\bin\EntityFramework.SqlServer.xml
+C:\Users\Atmaca\Downloads\SesDeneme51\SesDeneme\sesDeneme.Web\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Atmaca\Downloads\SesDeneme51\SesDeneme\sesDeneme.Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Atmaca\Downloads\SesDeneme51\SesDeneme\sesDeneme.Web\bin\Microsoft.AI.Web.xml
+C:\Users\Atmaca\Downloads\SesDeneme51\SesDeneme\sesDeneme.Web\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Atmaca\Downloads\SesDeneme51\SesDeneme\sesDeneme.Web\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Atmaca\Downloads\SesDeneme51\SesDeneme\sesDeneme.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Atmaca\Downloads\SesDeneme51\SesDeneme\sesDeneme.Web\obj\Debug\sesDeneme.Web.csprojAssemblyReference.cache
+C:\Users\Atmaca\Downloads\SesDeneme51\SesDeneme\sesDeneme.Web\obj\Debug\sesDeneme.Web.csproj.CoreCompileInputs.cache
+C:\Users\Atmaca\Downloads\SesDeneme51\SesDeneme\sesDeneme.Web\obj\Debug\sesDeneme.Web.csproj.CopyComplete
+C:\Users\Atmaca\Downloads\SesDeneme51\SesDeneme\sesDeneme.Web\obj\Debug\sesDeneme.Web.dll
+C:\Users\Atmaca\Downloads\SesDeneme51\SesDeneme\sesDeneme.Web\obj\Debug\sesDeneme.Web.pdb
+C:\Users\Atmaca\Desktop\Ders\SesDeneme51\SesDeneme\sesDeneme.Web\bin\ApplicationInsights.config
+C:\Users\Atmaca\Desktop\Ders\SesDeneme51\SesDeneme\sesDeneme.Web\bin\roslyn\csc.exe
+C:\Users\Atmaca\Desktop\Ders\SesDeneme51\SesDeneme\sesDeneme.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Atmaca\Desktop\Ders\SesDeneme51\SesDeneme\sesDeneme.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Atmaca\Desktop\Ders\SesDeneme51\SesDeneme\sesDeneme.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Atmaca\Desktop\Ders\SesDeneme51\SesDeneme\sesDeneme.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Atmaca\Desktop\Ders\SesDeneme51\SesDeneme\sesDeneme.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Atmaca\Desktop\Ders\SesDeneme51\SesDeneme\sesDeneme.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Atmaca\Desktop\Ders\SesDeneme51\SesDeneme\sesDeneme.Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Atmaca\Desktop\Ders\SesDeneme51\SesDeneme\sesDeneme.Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Atmaca\Desktop\Ders\SesDeneme51\SesDeneme\sesDeneme.Web\bin\roslyn\vbc.exe
+C:\Users\Atmaca\Desktop\Ders\SesDeneme51\SesDeneme\sesDeneme.Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\Atmaca\Desktop\Ders\SesDeneme51\SesDeneme\sesDeneme.Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Atmaca\Desktop\Ders\SesDeneme51\SesDeneme\sesDeneme.Web\bin\sesDeneme.Web.dll.config
+C:\Users\Atmaca\Desktop\Ders\SesDeneme51\SesDeneme\sesDeneme.Web\bin\sesDeneme.Web.dll
+C:\Users\Atmaca\Desktop\Ders\SesDeneme51\SesDeneme\sesDeneme.Web\bin\sesDeneme.Web.pdb
+C:\Users\Atmaca\Desktop\Ders\SesDeneme51\SesDeneme\sesDeneme.Web\bin\EntityFramework.dll
+C:\Users\Atmaca\Desktop\Ders\SesDeneme51\SesDeneme\sesDeneme.Web\bin\EntityFramework.SqlServer.dll
+C:\Users\Atmaca\Desktop\Ders\SesDeneme51\SesDeneme\sesDeneme.Web\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Atmaca\Desktop\Ders\SesDeneme51\SesDeneme\sesDeneme.Web\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Atmaca\Desktop\Ders\SesDeneme51\SesDeneme\sesDeneme.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Atmaca\Desktop\Ders\SesDeneme51\SesDeneme\sesDeneme.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Atmaca\Desktop\Ders\SesDeneme51\SesDeneme\sesDeneme.Web\bin\Microsoft.AI.Web.dll
+C:\Users\Atmaca\Desktop\Ders\SesDeneme51\SesDeneme\sesDeneme.Web\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Atmaca\Desktop\Ders\SesDeneme51\SesDeneme\sesDeneme.Web\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Atmaca\Desktop\Ders\SesDeneme51\SesDeneme\sesDeneme.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Atmaca\Desktop\Ders\SesDeneme51\SesDeneme\sesDeneme.Web\bin\EntityFramework.xml
+C:\Users\Atmaca\Desktop\Ders\SesDeneme51\SesDeneme\sesDeneme.Web\bin\EntityFramework.SqlServer.xml
+C:\Users\Atmaca\Desktop\Ders\SesDeneme51\SesDeneme\sesDeneme.Web\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Atmaca\Desktop\Ders\SesDeneme51\SesDeneme\sesDeneme.Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Atmaca\Desktop\Ders\SesDeneme51\SesDeneme\sesDeneme.Web\bin\Microsoft.AI.Web.xml
+C:\Users\Atmaca\Desktop\Ders\SesDeneme51\SesDeneme\sesDeneme.Web\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Atmaca\Desktop\Ders\SesDeneme51\SesDeneme\sesDeneme.Web\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Atmaca\Desktop\Ders\SesDeneme51\SesDeneme\sesDeneme.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Atmaca\Desktop\Ders\SesDeneme51\SesDeneme\sesDeneme.Web\obj\Debug\sesDeneme.Web.csprojAssemblyReference.cache
+C:\Users\Atmaca\Desktop\Ders\SesDeneme51\SesDeneme\sesDeneme.Web\obj\Debug\sesDeneme.Web.csproj.CoreCompileInputs.cache
+C:\Users\Atmaca\Desktop\Ders\SesDeneme51\SesDeneme\sesDeneme.Web\obj\Debug\sesDeneme.Web.csproj.CopyComplete
+C:\Users\Atmaca\Desktop\Ders\SesDeneme51\SesDeneme\sesDeneme.Web\obj\Debug\sesDeneme.Web.dll
+C:\Users\Atmaca\Desktop\Ders\SesDeneme51\SesDeneme\sesDeneme.Web\obj\Debug\sesDeneme.Web.pdb

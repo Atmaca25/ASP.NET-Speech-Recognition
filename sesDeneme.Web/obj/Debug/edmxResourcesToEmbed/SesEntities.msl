@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="SesProjeDbModelStoreContainer" CdmEntityContainer="SesProjeDbEntities">
+    <EntitySetMapping Name="Commands">
+      <EntityTypeMapping TypeName="SesProjeDbModel.Command">
+        <MappingFragment StoreEntitySet="Commands">
+          <ScalarProperty Name="commandId" ColumnName="commandId" />
+          <ScalarProperty Name="command1" ColumnName="command" />
+          <ScalarProperty Name="response" ColumnName="response" />
+          <ScalarProperty Name="action" ColumnName="action" />
+          <ScalarProperty Name="speak" ColumnName="speak" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
